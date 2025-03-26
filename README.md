@@ -21,7 +21,7 @@ A comprehensive dashboard combining all insights for interactive analysis.
 - Data Cleaning & Preprocessing
 
 ## 📂 How to Use
-1. Open the Tableau folder.
+1. Open the dashboard folder.
 2. Explore different views and dashboards to analyze sales trends.
 3. Use filters and interactions to gain deeper insights.
 
